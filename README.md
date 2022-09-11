@@ -15,7 +15,7 @@ To install all presets (print and filament), run the included Makefile with the 
 make install
 ```
 
-To uninstall all configuration provided through this repository, use the `uninsatll` target.
+To uninstall all configuration provided through this repository, use the `uninstall` target.
 
 ```sh
 make uninstall
